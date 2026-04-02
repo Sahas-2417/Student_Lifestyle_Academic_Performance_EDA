@@ -30,9 +30,10 @@ To identify how factors such as study hours, sleep duration, attendance, stress,
 
 ## 📁 Files Included
 - `Dashboard.pdf` – Final dashboard
+- `Dashboard.png` – Preview image
+- `dataset.csv` – CSV version for quick preview on GitHub
+- `dataset.xlsx` – Recommended dataset file for viewing in Excel
 - `Project_Pitch.pptx` – Initial project presentation
-- `dataset.csv` – Survey dataset
-- `dashboard.png` – Preview image
 
 ## 💡 Applications
 - Student feedback analysis
