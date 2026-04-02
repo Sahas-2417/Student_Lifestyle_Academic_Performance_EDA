@@ -1,5 +1,5 @@
 # 📊 Student Lifestyle & Academic Performance – EDA Project
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 This project analyzes how student lifestyle habits influence academic performance using Exploratory Data Analysis (EDA).
 The analysis was performed using survey responses collected through Google Forms and processed in Microsoft Excel.
