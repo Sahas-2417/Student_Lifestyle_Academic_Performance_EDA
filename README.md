@@ -23,11 +23,10 @@ To identify how factors such as study hours, sleep duration, attendance, stress,
 - Factors Affecting Academic Performance
 
 ## 🔍 Important Findings
-- Most students study only 1–2 hours daily. :contentReference[oaicite:3]{index=3}
-- Most students sleep between 6–7 hours, which supports better concentration. :contentReference[oaicite:4]{index=4}
-- 43% of students spend more than 4 hours on non-academic screen time. :contentReference[oaicite:5]{index=5}
-- Attendance was identified as the most important factor affecting academic performance (38%). :contentReference[oaicite:6]{index=6}
-- Students with balanced study habits, adequate sleep, and consistent attendance tend to perform better academically. :contentReference[oaicite:7]{index=7}
+- 43% students spend more than 4 hours on non-academic screen time
+- Attendance was identified as the most important factor affecting academic performance (38%)
+- Most students study only 1–2 hours daily
+- Students sleeping 6–7 hours showed better academic balance
 
 ## 📁 Files Included
 - `Dashboard.pdf` – Final dashboard
