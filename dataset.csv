@@ -1,0 +1,93 @@
+Timestamp,Year of Study,Branch,Gender,Average daily study hours,Average sleep duration (hours/day),Daily screen time (non-academic),Frequency of physical activity per week,Do you follow a fixed daily routine?,How often do you feel stressed due to academics?,Primary study environment,Attendance Percentage,Latest semester CGPA range,Do you feel lifestyle affects academic performance?,Which factor impacts your performance the most?
+1/6/2026 18:31,SE,IT,Male,>4,<5,>4,Never,Yes,Rarely,Home,>90,>8,Yes,Study hours
+1/6/2026 18:32,SE,DS,Female,2-Jan,7-Jun,>4,1-2 days,Yes,Rarely,Home,>90,>8,Maybe,Sleep
+1/6/2026 18:34,SE,DS,Female,2-Jan,7-Jun,4-Feb,1-2 days,Sometimes,Sometimes,Home,75-90,>8,Maybe,Sleep
+1/6/2026 18:38,SE,IT,Male,2-Jan,<5,<2,3-4 days,Yes,Sometimes,Home,>90,8-Jul,No,Attendance
+1/6/2026 18:46,SE,DS,Male,<1,6-May,4-Feb,Never,Yes,Often,Home,>90,>8,Yes,Attendance
+1/6/2026 18:49,SE,IT,Female,2-Jan,6-May,<2,Daily,Yes,Rarely,Home,75-90,8-Jul,Yes,Attendance
+1/6/2026 18:52,SE,EXCS,Male,2-Jan,<5,4-Feb,1-2 days,No,Sometimes,Home,>90,>8,Yes,Stress
+1/6/2026 18:54,BE,EXCS,Male,4-Feb,6-May,<2,1-2 days,Yes,Sometimes,Home,>90,>8,Yes,Screen time
+1/6/2026 18:54,SE,DS,Male,2-Jan,<5,<2,Daily,Yes,Often,Home,75-90,>8,Yes,Study hours
+1/6/2026 18:55,SE,EXCS,Female,2-Jan,7-Jun,4-Feb,1-2 days,No,Often,Home,75-90,8-Jul,Yes,Attendance
+1/6/2026 18:56,SE,EXCS,Male,2-Jan,>7,>4,Daily,Sometimes,Rarely,Home,75-90,>8,Yes,Attendance
+1/6/2026 18:56,SE,EXCS,Female,<1,>7,4-Feb,Daily,Sometimes,Rarely,Home,75-90,>8,Yes,Stress
+1/6/2026 18:57,SE,COMPS,Male,2-Jan,<5,>4,Never,No,Sometimes,Home,75-90,8-Jul,Maybe,Stress
+1/6/2026 19:03,SE,COMPS,Male,<1,7-Jun,>4,1-2 days,Sometimes,Sometimes,Hostel,>90,>8,Maybe,Screen time
+1/6/2026 19:07,SE,CIVIL,Female,2-Jan,6-May,>4,1-2 days,Sometimes,Sometimes,Home,>90,8-Jul,Yes,Screen time
+1/6/2026 19:08,SE,CIVIL,Male,4-Feb,7-Jun,<2,1-2 days,Yes,Sometimes,Home,>90,7-Jun,No,Attendance
+1/6/2026 19:09,SE,CIVIL,Female,2-Jan,7-Jun,>4,Never,No,Often,Home,>90,>8,Yes,Attendance
+1/6/2026 19:10,SE,CIVIL,Male,2-Jan,6-May,>4,Daily,Sometimes,Sometimes,Home,75-90,>8,No,Sleep
+1/6/2026 19:13,SE,COMPS,Male,<1,7-Jun,>4,1-2 days,Yes,Sometimes,Home,75-90,8-Jul,Maybe,Stress
+1/6/2026 19:16,TE,IT,Male,<1,<5,>4,Daily,Sometimes,Sometimes,Home,75-90,8-Jul,Maybe,Screen time
+1/6/2026 19:17,SE,CIVIL,Female,2-Jan,6-May,>4,1-2 days,Sometimes,Sometimes,Home,75-90,7-Jun,Yes,Screen time
+1/6/2026 19:17,SE,CIVIL,Male,<1,6-May,>4,3-4 days,No,Often,Home,>90,8-Jul,Maybe,Stress
+1/6/2026 19:18,SE,IT,Female,<1,6-May,>4,1-2 days,No,Sometimes,Home,>90,>8,Yes,Sleep
+1/6/2026 19:19,SE,DS,Male,<1,6-May,4-Feb,1-2 days,No,Often,Home,75-90,>8,No,Attendance
+1/6/2026 19:27,SE,DS,Female,2-Jan,>7,4-Feb,1-2 days,No,Rarely,Home,>90,>8,Yes,Study hours
+1/6/2026 19:32,SE,COMPS,Prefer not to say,<1,7-Jun,>4,1-2 days,No,Sometimes,Home,60-75,8-Jul,Maybe,Sleep
+1/6/2026 19:33,SE,MECH,Male,<1,7-Jun,>4,3-4 days,Sometimes,Sometimes,Library,75-90,7-Jun,Yes,Screen time
+1/6/2026 19:34,SE,MECH,Male,2-Jan,7-Jun,4-Feb,3-4 days,Sometimes,Sometimes,Home,75-90,<6,No,Attendance
+1/6/2026 19:39,SE,DS,Male,2-Jan,6-May,4-Feb,Daily,Yes,Often,Home,75-90,>8,Yes,Attendance
+1/6/2026 19:41,SE,IT,Female,2-Jan,7-Jun,4-Feb,Daily,No,Sometimes,Home,75-90,>8,Yes,Screen time
+1/6/2026 19:43,TE,IT,Prefer not to say,>4,7-Jun,<2,3-4 days,Yes,Sometimes,Home,75-90,>8,Maybe,Study hours
+1/6/2026 19:46,SE,MECH,Male,<1,<5,>4,1-2 days,Sometimes,Often,Home,>90,<6,Yes,Attendance
+1/6/2026 19:48,SE,MECH,Male,4-Feb,7-Jun,4-Feb,Daily,Yes,Often,Home,75-90,>8,Yes,Attendance
+1/6/2026 19:48,SE,EXCS,Female,>4,<5,4-Feb,Never,Sometimes,Sometimes,Home,75-90,>8,Yes,Stress
+1/6/2026 19:49,TE,IT,Male,4-Feb,7-Jun,4-Feb,Daily,Sometimes,Sometimes,Home,75-90,>8,Yes,Attendance
+1/6/2026 19:53,TE,IT,Male,<1,7-Jun,>4,1-2 days,No,Rarely,Library,<60,7-Jun,Yes,Screen time
+1/6/2026 19:54,BE,DS,Male,2-Jan,6-May,4-Feb,3-4 days,No,Often,Home,75-90,>8,No,Stress
+1/6/2026 19:57,TE,IT,Male,<1,<5,>4,Never,Yes,Often,Home,75-90,8-Jul,No,Attendance
+1/6/2026 19:59,SE,EXCS,Male,2-Jan,>7,<2,1-2 days,Sometimes,Rarely,Home,75-90,>8,No,Study hours
+1/6/2026 20:03,TE,IT,Male,<1,7-Jun,4-Feb,1-2 days,No,Often,Home,>90,8-Jul,Maybe,Attendance
+1/6/2026 20:11,TE,IT,Male,2-Jan,7-Jun,>4,1-2 days,Sometimes,Sometimes,Home,75-90,>8,Yes,Attendance
+1/6/2026 20:11,FE,CIVIL,Female,2-Jan,6-May,4-Feb,1-2 days,No,Sometimes,Library,75-90,<6,Maybe,Attendance
+1/6/2026 20:12,FE,COMPS,Male,2-Jan,6-May,>4,1-2 days,No,Sometimes,Home,>90,>8,Yes,Study hours
+1/6/2026 20:13,FE,IT,Female,2-Jan,7-Jun,>4,Daily,Sometimes,Sometimes,Home,75-90,7-Jun,Yes,Screen time
+1/6/2026 20:13,TE,IT,Male,<1,<5,>4,Daily,Sometimes,Rarely,Home,<60,8-Jul,Maybe,Stress
+1/6/2026 20:22,FE,COMPS,Male,2-Jan,7-Jun,<2,Daily,Sometimes,Rarely,Home,75-90,8-Jul,Yes,Screen time
+1/6/2026 20:23,BE,AIML,Male,4-Feb,7-Jun,4-Feb,3-4 days,No,Sometimes,Home,75-90,>8,Yes,Study hours
+1/6/2026 20:23,FE,COMPS,Male,<1,7-Jun,>4,3-4 days,No,Sometimes,Home,60-75,8-Jul,Yes,Attendance
+1/6/2026 20:27,FE,COMPS,Male,2-Jan,7-Jun,>4,Daily,Sometimes,Sometimes,Home,>90,>8,Maybe,Screen time
+1/6/2026 20:28,FE,COMPS,Female,4-Feb,6-May,4-Feb,3-4 days,Sometimes,Sometimes,Library,>90,>8,Yes,Study hours
+1/6/2026 20:32,FE,AIML,Male,2-Jan,7-Jun,4-Feb,Never,Sometimes,Often,Home,75-90,8-Jul,Yes,Attendance
+1/6/2026 20:33,SE,COMPS,Male,2-Jan,<5,<2,Never,Sometimes,Often,Home,>90,>8,Yes,Sleep
+1/6/2026 20:33,TE,COMPS,Male,2-Jan,6-May,<2,Daily,Sometimes,Sometimes,Home,>90,7-Jun,No,Attendance
+1/6/2026 20:36,FE,AIML,Male,<1,6-May,>4,Daily,No,Rarely,Home,75-90,8-Jul,No,Screen time
+1/6/2026 20:37,FE,MECH,Male,<1,6-May,<2,1-2 days,No,Sometimes,Home,>90,8-Jul,No,Stress
+1/6/2026 20:39,SE,IT,Male,<1,6-May,4-Feb,3-4 days,No,Sometimes,Home,>90,>8,Maybe,Sleep
+1/6/2026 20:41,FE,EXCS,Male,4-Feb,6-May,4-Feb,Daily,Yes,Sometimes,Home,>90,8-Jul,Yes,Study hours
+1/6/2026 20:44,FE,IT,Male,2-Jan,>7,>4,3-4 days,Yes,Rarely,Library,75-90,7-Jun,Maybe,Attendance
+1/6/2026 20:47,FE,COMPS,Male,<1,>7,4-Feb,Daily,Sometimes,Sometimes,Home,60-75,7-Jun,No,Attendance
+1/6/2026 20:52,SE,IT,Male,2-Jan,7-Jun,4-Feb,3-4 days,Sometimes,Rarely,Home,>90,8-Jul,Yes,Screen time
+1/6/2026 21:09,FE,COMPS,Male,4-Feb,6-May,4-Feb,Daily,Sometimes,Sometimes,Home,>90,8-Jul,Yes,Screen time
+1/6/2026 21:15,SE,IT,Female,4-Feb,7-Jun,>4,1-2 days,Sometimes,Sometimes,Home,>90,>8,Maybe,Attendance
+1/6/2026 21:15,FE,COMPS,Male,2-Jan,7-Jun,<2,Daily,Yes,Rarely,Home,75-90,>8,Maybe,Study hours
+1/6/2026 21:18,SE,IT,Male,<1,7-Jun,4-Feb,1-2 days,No,Rarely,Library,>90,>8,Maybe,Attendance
+1/6/2026 21:19,FE,EXCS,Male,4-Feb,>7,4-Feb,1-2 days,Yes,Rarely,Home,>90,>8,Yes,Sleep
+1/6/2026 21:21,FE,DS,Male,<1,6-May,>4,Never,Sometimes,Often,Home,60-75,>8,No,Attendance
+1/6/2026 21:21,TE,IT,Male,<1,<5,<2,Daily,Yes,Often,Home,<60,7-Jun,Maybe,Attendance
+1/6/2026 21:21,FE,COMPS,Male,<1,7-Jun,>4,Never,Sometimes,Often,Home,>90,8-Jul,Yes,Study hours
+1/6/2026 21:39,SE,DS,Female,2-Jan,6-May,>4,1-2 days,Sometimes,Sometimes,Home,>90,>8,Yes,Sleep
+1/6/2026 21:42,SE,MECH,Male,<1,6-May,<2,Daily,No,Rarely,Home,75-90,7-Jun,Yes,Study hours
+1/6/2026 21:42,BE,IT,Male,<1,<5,>4,Daily,Yes,Often,Home,<60,>8,No,Sleep
+1/6/2026 21:42,BE,IT,Male,2-Jan,7-Jun,4-Feb,1-2 days,No,Often,Home,75-90,>8,Maybe,Attendance
+1/6/2026 21:43,TE,IT,Female,2-Jan,6-May,<2,1-2 days,Sometimes,Sometimes,Home,75-90,>8,No,Attendance
+1/6/2026 21:48,FE,DS,Male,4-Feb,7-Jun,4-Feb,1-2 days,Sometimes,Sometimes,Home,>90,>8,Maybe,Sleep
+1/6/2026 21:50,BE,IT,Female,2-Jan,>7,4-Feb,Never,No,Sometimes,Home,75-90,>8,Yes,Stress
+1/6/2026 21:55,BE,IT,Male,<1,7-Jun,>4,1-2 days,No,Often,Home,75-90,8-Jul,Yes,Stress
+1/6/2026 21:57,TE,IT,Female,<1,>7,4-Feb,1-2 days,Sometimes,Rarely,Home,>90,>8,Maybe,Sleep
+1/6/2026 22:02,SE,IT,Male,2-Jan,6-May,>4,1-2 days,Yes,Rarely,Home,>90,>8,No,Study hours
+1/6/2026 22:07,FE,DS,Male,<1,6-May,4-Feb,Never,No,Often,Library,75-90,>8,Yes,Attendance
+1/6/2026 22:11,BE,IT,Female,2-Jan,7-Jun,4-Feb,Never,Sometimes,Sometimes,Home,75-90,>8,Yes,Attendance
+1/6/2026 22:12,BE,IT,Male,<1,>7,>4,Daily,Yes,Sometimes,Home,75-90,>8,No,Attendance
+1/6/2026 22:22,FE,DS,Female,<1,6-May,4-Feb,1-2 days,No,Often,Home,>90,>8,Yes,Stress
+1/6/2026 22:25,SE,CIVIL,Female,2-Jan,6-May,4-Feb,Daily,Yes,Sometimes,Home,60-75,<6,No,Study hours
+1/6/2026 22:46,TE,IT,Male,<1,7-Jun,>4,3-4 days,Sometimes,Rarely,Home,60-75,7-Jun,No,Attendance
+1/6/2026 22:48,TE,DS,Male,<1,<5,4-Feb,Never,No,Sometimes,Library,60-75,7-Jun,No,Screen time
+1/6/2026 22:54,TE,COMPS,Female,<1,>7,>4,1-2 days,No,Often,Home,75-90,>8,Yes,Stress
+1/6/2026 23:10,SE,DS,Male,<1,6-May,4-Feb,1-2 days,Yes,Sometimes,Home,75-90,>8,Maybe,Screen time
+1/7/2026 10:20,BE,IT,Male,2-Jan,7-Jun,>4,1-2 days,Sometimes,Sometimes,Home,60-75,8-Jul,Yes,Attendance
+1/7/2026 11:11,BE,IT,Male,2-Jan,7-Jun,>4,3-4 days,Sometimes,Rarely,Home,60-75,8-Jul,Yes,Attendance
+1/8/2026 7:36,FE,AIML,Male,>4,6-May,>4,Daily,Yes,Sometimes,Library,>90,>8,Yes,Sleep
+1/8/2026 20:12,TE,AIML,Male,4-Feb,7-Jun,>4,3-4 days,Sometimes,Sometimes,Home,75-90,>8,Maybe,Screen time
+1/11/2026 18:30,FE,IT,Female,4-Feb,7-Jun,>4,Never,No,Sometimes,Home,>90,>8,Yes,Screen time
