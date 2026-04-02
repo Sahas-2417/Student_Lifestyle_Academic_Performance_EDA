@@ -35,6 +35,8 @@ To identify how factors such as study hours, sleep duration, attendance, stress,
 - `dataset.csv` – CSV version for quick preview on GitHub
 - `dataset.xlsx` – Recommended dataset file for viewing in Excel
 
+> Note: Some values such as `1-2` or `6-7` may appear as dates in CSV format when opened in Excel. For correct formatting, use `dataset.xlsx`.
+
 ## 💡 Applications
 - Student feedback analysis
 - Academic performance studies
