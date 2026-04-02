@@ -28,6 +28,18 @@ To identify how factors such as study hours, sleep duration, attendance, stress,
 - Most students study only 1–2 hours daily
 - Students sleeping 6–7 hours showed better academic balance
 
+## 📊 Additional Chart Insights
+
+### Key Factors Affecting Academic Performance
+![Key Factors](charts/key_factors.png)
+
+Attendance was found to be the most influential factor affecting academic performance, followed by screen time and study hours.
+
+### Study Hours Distribution
+![Study Hours](charts/study_hours.png)
+
+Most students reported studying only 1–2 hours daily, indicating limited study time among the majority of respondents.
+
 ## 📁 Files Included
 - `Dashboard.pdf` – Final dashboard
 - `Dashboard.png` – Preview image
