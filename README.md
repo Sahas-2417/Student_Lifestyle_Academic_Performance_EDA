@@ -55,6 +55,8 @@ Most students reported studying only 1–2 hours daily, indicating limited study
 - College decision-making
 - Survey-based educational research
 
+⭐ If you found this project interesting, feel free to explore the repository and connect with me on LinkedIn.
+
 ## 🚀 Future Improvements
 - Increase the number of student responses
 - Compare academic years and departments
