@@ -40,3 +40,9 @@ To identify how factors such as study hours, sleep duration, attendance, stress,
 - Academic performance studies
 - College decision-making
 - Survey-based educational research
+
+## 🚀 Future Improvements
+- Increase the number of student responses
+- Compare academic years and departments
+- Add predictive analysis using Python
+- Build an interactive dashboard version
